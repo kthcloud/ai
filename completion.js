@@ -1,7 +1,7 @@
 const paramDefaults = {
   stream: true,
   n_predict: 500,
-  temperature: 1.5,
+  temperature: 1,
   stop: ["</s>"]
 };
 
